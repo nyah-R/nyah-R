@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- HEADER -->
-<img width="90%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Nyah%20R%C3%BCting&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-
+<img width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Nyah%20R%C3%BCting&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 ---
@@ -24,17 +21,6 @@ siempre abierta a colaborar en proyectos interesantes y conectar con personas qu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nyah-R&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyah-R&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
@@ -44,6 +30,6 @@ siempre abierta a colaborar en proyectos interesantes y conectar con personas qu
 <br>
 
 [![Email](https://img.shields.io/badge/Email-rutingn05%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutingn05@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyah--rüting-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyah-rüting/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyah--r%C3%BCting-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyah-r%C3%BCting/)
 
 </div>
