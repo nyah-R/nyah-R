@@ -1,31 +1,24 @@
 
 
-## Hola 👋 Soy Nyah
-
-Disfruto construyendo cosas que funcionen y aprendiendo mientras lo hago. Empecé en hardware y terminé escribiendo software.  
-Estudio Ingeniería Electrónica y Análisis en Tecnologías de la Información,
-siempre abierta a colaborar en proyectos interesantes y conectar con personas que disfruten tanto aprender como construir.
+## Hey there, I'm Nyah 🚀
 
 
-## 🚀 Algunos proyectos
+I got hooked on computers in high school. It started with a science club, and one thing led to another. I didn't always know exactly what I was doing, but I kept going.
+Today I mix electronics and IT analysis, and I love both. That's probably why, if you look at my repositories, you'll find a mix of hardware and software.
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|------------|-------------|-------|
-| **Goalify** | App mobile/web para gestión de metas con geolocalización en tiempo real | Ionic, JavaScript, Leaflet.js | [GitHub](https://github.com/nyah-R/goalify) |
-| **Sistema de Estacionamiento** | Gestión completa de vehículos con arquitectura MVC y persistencia | Java, Serialización | [GitHub](https://github.com/nyah-R/estacionamiento) |
-| **Sistema Llamador de Mesas – FPGA** | Memoria FIFO circular para turnos en tiempo real | VHDL, Quartus II | [GitHub](https://github.com/nyah-R/fpga-mesas) |
-
----
-
-## 📬 Contacto
-
+Growth isn't just a word for me - I'm always testing ideas, learning from mistakes, and adapting. 
+Want to build something or just talk? I'm around. 🔧
+  
 <div align="center">
 
-💡 Siempre buscando aprender, aportar y conectar con otros que disfruten de la tecnología. Si querés colaborar o simplemente charlar de proyectos, escribime.
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-rutingn05%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutingn05@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyah--r%C3%BCting-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyah-r%C3%BCting/)
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs&theme=dark" />
 
 </div>
+
+**What's coming next...**
+```
+📦 Data Structures
+⚡ Algorithms  
+🗄️ Databases 1
+```
+
