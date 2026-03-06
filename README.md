@@ -2,7 +2,6 @@
 
 ## Nyah Rüting
 
-IT Analysis and Electronic Engineering at ORT Uruguay.
 
 I've always been drawn to what you can't see. The logic behind a device, 
 a system, a simple interaction. What looks effortless usually isn't, and 
