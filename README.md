@@ -1,24 +1,28 @@
 
 
-## Hey there, I'm Nyah 🚀
+## Nyah Rüting
 
+IT Analysis and Electronic Engineering at ORT Uruguay.
 
-I got hooked on computers in high school. It started with a science club, and one thing led to another. I didn't always know exactly what I was doing, but I kept going.
-Today I mix electronics and IT analysis, and I love both. That's probably why, if you look at my repositories, you'll find a mix of hardware and software.
+I've always been drawn to what you can't see. The logic behind a device, 
+a system, a simple interaction. What looks effortless usually isn't, and 
+that gap is exactly what I find interesting.
 
-I'm always testing ideas, learning from mistakes, and adapting. 
-Want to build something or just talk? I'm around. 🔧
-  
+That's why I ended up in two engineering tracks instead of one.
+
+This profile contains both academic and personal projects developed across 
+application development, systems architecture, and embedded systems.
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs,arduino,bootstrap,git,vscode&theme=dark" />
 </div>
 
-**What's coming next...**
+
+**Currently Learning**
 ```
-📦 Data Structures
-⚡ Algorithms  
-🗄️ Databases 1
+Data Structures
+Algorithms  
+Databases 1
 ```
+
 
